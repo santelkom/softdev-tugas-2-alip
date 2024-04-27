@@ -1,4 +1,4 @@
-### Tugas Softdev
+## TUGAS 2 SOFTDEV 
 
 
 Untuk mengambil data dengan GET
@@ -31,10 +31,10 @@ response :
 }
 ```
 
-untuk menambah data dengan method PUT
+untuk menambah data dengan PUT
 http://localhost:3000/edit/:id
 
-key yang diperlukan :
+key :
 ```
 activity : value
 ```
